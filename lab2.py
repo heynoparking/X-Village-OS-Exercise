@@ -69,7 +69,7 @@ def main():
     print(file_count, 'files found.') 
     # win計算為114,mac計算為115
     # mac會多一個.DS_Store的檔案,是apple為OSX作業系統創的隱藏文件
-    # .DS_Stire目的在於存貯目錄的自定義屬性
+    # .DS_Store目的在於存貯目錄的自定義屬性
 
 if __name__ == "__main__":
     main()
